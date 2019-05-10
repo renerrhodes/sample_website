@@ -1,3 +1,15 @@
+## Sample Website
+Welcome to the sample website!
+
+Here you can:
+
+- call a hello, world index page with an alert message
+
+- reload the same page
+
+Isn't that **rad**?!?
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/renerrhodes/sample_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
